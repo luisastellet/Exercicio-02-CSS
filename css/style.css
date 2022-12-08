@@ -38,7 +38,7 @@ main {
     height: auto;
 }
 
-/* .card-image e .card-image-top estão no mesmo nível, por isso não se usa asa duas */
+/* .card-image e .card-image-top estão no mesmo nível, por isso não se usa as duas */
 .card .card-image-top {
     margin-top: -55px;
 }
